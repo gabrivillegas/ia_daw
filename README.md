@@ -163,16 +163,15 @@ Robótica, procesamiento avanzado de imágenes o vehículos autónomos.
 
 ---
 
+
 ## 5) Diagrama (Mermaid)
 
 ```mermaid
 graph TD
 
-A[Inteligencia Artificial]
-
-A --> B[Sanidad]
+A[Inteligencia Artificial] --> B[Sanidad]
 A --> C[Banca]
-A --> D[Comercio electrónico]
+A --> D[Comercio Electrónico]
 
 B --> B1[Análisis de imágenes médicas]
 B --> B2[Técnica: Visión artificial / Deep Learning]
@@ -185,7 +184,6 @@ C --> C3[Lenguaje: Java / Python]
 D --> D1[Sistema de recomendación de productos]
 D --> D2[Técnica: Machine Learning]
 D --> D3[Lenguaje: Python]
----
 
 ## 6) Riesgos y mitigación
 
