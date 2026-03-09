@@ -166,8 +166,6 @@ Robótica, procesamiento avanzado de imágenes o vehículos autónomos.
 
 ## 5) Diagrama (Mermaid)
 
-## 5) Diagrama (Mermaid)
-
 ```mermaid
 graph TD
 
@@ -186,7 +184,6 @@ C --> C3[Lenguaje: Java / Python]
 D --> D1[Sistema de recomendación de productos]
 D --> D2[Técnica: Machine Learning]
 D --> D3[Lenguaje: Python]
-
 ---
 
 ## 6) Riesgos y mitigación
