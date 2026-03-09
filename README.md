@@ -167,6 +167,7 @@ Robótica, procesamiento avanzado de imágenes o vehículos autónomos.
 ## 5) Diagrama (Mermaid)
 
 ```mermaid
+
 graph TD
 
 A[Inteligencia Artificial] --> B[Sanidad]
