@@ -165,6 +165,40 @@ Robótica, procesamiento avanzado de imágenes o vehículos autónomos.
 
 ## 5) Diagrama (ASCII o Mermaid)
 
+       +-------------------+
+       |  Inteligencia IA  |
+       +---------+---------+
+                 |
+ -------------------------------------
+ |                 |                 |
+---
+
+## 6) Riesgos y mitigación
+
+- Riesgo 1:  
+Sesgos en los datos utilizados para entrenar los modelos de IA, lo que puede provocar decisiones incorrectas o injustas.
+
+- Mitigación 1:  
+Realizar revisión y limpieza de datos, además de auditorías periódicas del modelo.
+
+- Riesgo 2:  
+Problemas de privacidad al manejar datos sensibles de usuarios o pacientes.
+
+- Mitigación 2:  
+Aplicar técnicas de anonimización de datos y cumplir con las normativas de protección de datos.
+
+---
+
+## 7) Conclusión
+
+- Qué sectores destacan más:  
+Sectores como la sanidad, la banca y el comercio electrónico destacan por el uso intensivo de datos y la necesidad de analizarlos de forma rápida y eficiente.
+
+- Qué lenguajes aparecen con más frecuencia:  
+Python es el lenguaje más utilizado en inteligencia artificial, aunque también se utilizan Java, R y C++ dependiendo del tipo de aplicación.
+
+- Qué importancia tiene esto para DAW/DAM:  
+Conocer cómo funciona la inteligencia artificial y qué lenguajes se utilizan permite a los desarrolladores integrar servicios inteligentes en aplicaciones web y móviles, algo cada vez más demandado en el mercado laboral.
 
 ## 8) Fuentes oficiales (mín. 2)
 - Fuente 1 (sectores / aplicación IA):
